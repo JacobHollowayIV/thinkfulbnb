@@ -1,3 +1,7 @@
+This assignment challenged both my thought process as well as getting around client needs to their satisfaction. It was also challenging working with a 480px space for the first time, as opposed to 600, as that caused some unforseen issues with the Date input. I ended up creating a new group for the Desktop Photos that seemed to work really well. I also played around with auto font-size for the first time to add some additional response to the layout, as the screens that I use are quite large, compared to a 480px or 600px layout. The mobile-side of things was probably the easier side developing that first.
+
+#EVERYTHING BELOW IS FROM THE MOCK CLIENT
+
 # Thinkfulbnb
 
 Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
